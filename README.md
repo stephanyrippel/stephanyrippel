@@ -141,7 +141,7 @@ To improve launch readiness, I would:
 ## Tools used
 
 * **FoodChecker (PIM)** — Product specifications and Product Information Management workflows.
-* **3LM (ERP + POS)** — Product registration, inventory, and operational product information workflows.
+* **3LM (ERP + PDV)** — Product registration, inventory, and operational product information workflows.
 * **Microsoft Excel** — Data validation, Pivot Tables, XLOOKUP, COUNTIFS, conditional formatting, and quality checks.
 * **Google Looker Studio** — Compliance dashboard.
 * **GitHub & Markdown** — Project documentation.
